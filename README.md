@@ -1,7 +1,9 @@
-# Sudoku Java
+# 🧩 Sudoku Java Console
 
-Jogo de Sudoku em Java (terminal)
+Jogo de Sudoku desenvolvido em Java para execução no terminal.
 
-## Como rodar
+## 🚀 Como executar
+
+### 1. Compilar
+```bash
 javac src/SudokuGame.java
-java -cp src SudokuGame
